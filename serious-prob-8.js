@@ -1,9 +1,0 @@
-// 8. Maximum Edge of a Triangle
-
-function nextEdge(side1, side2){
-    return ((side1 + side2) - 1);
-}
-
-console.log(nextEdge(8, 10));
-console.log(nextEdge(5, 7));
-console.log(nextEdge(9, 2));
