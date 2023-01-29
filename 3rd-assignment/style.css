@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.randomColorBox{
+    height: 50vh;
+    width: 50vw;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btnChange{
+    height: 10%;
+    width: 20%;
+    font-weight: 800;
+    cursor: pointer;
+}
